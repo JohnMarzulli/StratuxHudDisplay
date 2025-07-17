@@ -17,7 +17,7 @@ What you will need to complete this project:
 - [Raspberry Pi 4](https://www.amazon.com/Raspberry-Pi-RPI4-MODBP-4GB-Model-4GB/dp/B09TTNF8BT?ref_=ast_sto_dp)
 - [USB, mechanical keypad](https://www.amazon.com/Mechanical-Numeric-Backlit-Desktop-Computer/dp/B07FFLNF5C?ref_=ast_sto_dp)
 - Printed housing. (ABS, PETG, or High Temp PLA)
-- [6" x 6" 50/50, 3mm thick teleprompter glass](https://telepromptermirror.com/sample/)
+- [6" x 6" 40/60 or 50/50, 3mm thick teleprompter glass](https://telepromptermirror.com/sample/)
 - USB A to C or C to C cable
 - USB A to Micro B cable
 - [HMTECH 7" LCD Screen](https://www.amazon.com/HMTECH-Raspberry-Pi-Monitor-Non-Touch/dp/B09MFNLRQQ?th=1)
