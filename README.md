@@ -2,6 +2,8 @@
 
 A simple, DIY, Head Up Display for StratuxHUD.
 
+![HUD Render](media/render.png)
+
 ## Summary
 
 This project aims to develop a display for the StratuxHUD. This is born out of a lack of consistently available projectors.
@@ -22,6 +24,8 @@ What you will need to complete this project:
 - Micro HDMI to HDMI cable
 
 ## Printing the Case
+
+The files may be found in [geometry](./geometry/)
 
 You may print the case at any infill from 10% to 100%. Gyroid is the suggested infill type. You will need to enable supports for the main case due to the cable outlet.
 
